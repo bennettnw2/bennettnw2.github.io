@@ -17,6 +17,10 @@ a {
   padding-right: 30px;
 }
 
+i {
+	font-size: 150px;
+}
+
 a:link {
   color: #265301;
 }
